@@ -23,5 +23,15 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reppohc123/reactpropschallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reppohc123/reactpropschallenge/issues"
+  },
+  "homepage": "https://github.com/reppohc123/reactpropschallenge#readme"
 }
